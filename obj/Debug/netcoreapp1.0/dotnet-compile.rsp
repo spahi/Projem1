@@ -1,5 +1,5 @@
---temp-output:C:\Users\Prizrenser\Documents\GitHub\projem\obj\Debug\netcoreapp1.0\
---out:C:\Users\Prizrenser\Documents\GitHub\projem\bin\Debug\netcoreapp1.0\projem.dll
+--temp-output:C:\Users\Prizrenser\Documents\GitHub\Projem\obj\Debug\netcoreapp1.0\
+--out:C:\Users\Prizrenser\Documents\GitHub\Projem\bin\Debug\netcoreapp1.0\Projem.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -9,7 +9,7 @@
 --optimize:False
 --debug-type:portable
 --emit-entry-point:True
---output-name:projem
+--output-name:Projem
 --file-version:1.0.0.0
 --version:1.0.0.0
 --informational-version:1.0.0
@@ -87,5 +87,4 @@
 --reference:C:\Users\Prizrenser\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Prizrenser\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Prizrenser\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-C:\Users\Prizrenser\Documents\GitHub\projem\Program.cs
-C:\Users\Prizrenser\Documents\GitHub\projem\Projem\Program.cs
+C:\Users\Prizrenser\Documents\GitHub\Projem\Program.cs
